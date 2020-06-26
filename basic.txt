@@ -1,0 +1,25 @@
+# Python:
+
+This documentation is about basic concepts of python:
+
+Introduction:
+  Python is fastest growing language and applied in large scale, Like Machine learning, GUI, Web development, Software development, IoT etc..
+  Python is called as general purpose language and is easy to learn.
+  Instutions like Youtube, Google and other using python language in applications.
+  There are different versions in python:
+  version 1.x -> 1994
+  version 2.x -> 2003
+  version 3.x -> 2008
+  We use python Interpeter for converting python code into binary which machine can understand.
+  
+IDE introduction and usage :
+  Whatever platform we work like c, java, embedded c etc.., we need to write code.
+  To write code we can use notepad and different terminals but as a beginner it also good to practice code in IDE(integrated development Envirnoment).
+  IDE is used for writing, Interpretting and debugging the code.
+  Suggested IDEs to work with python: 
+  Pycharm.
+  Anaconda.
+  You can check in google for installation process of IDE.
+  
+
+  
